@@ -6,13 +6,13 @@ Introducing a fresh app named "Translator App." It's a renowned language hub, of
 
 ### Netlify Link
 
-https://translate-language-app.netlify.app/
+(https://livetranslaterapp.netlify.app/)
 
 ---
 
 ### Team Member
 
-- **[Viraj Gupta](https://github.com/rkvirajgupta/)**
+- **[Dhruv Gupta](https://github.com/Dhruva8878)**
 
 ---
 
