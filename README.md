@@ -6,7 +6,7 @@ Introducing a fresh app named "Translator App." It's a renowned language hub, of
 
 ### Netlify Link
 
-(https://livetranslaterapp.netlify.app/)
+https://livetranslaterapp.netlify.app/
 
 ---
 
